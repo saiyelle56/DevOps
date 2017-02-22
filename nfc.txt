@@ -1,1 +1,3 @@
 Added NFC payment
+/*By a apple user */
+Added Apple Pay
